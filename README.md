@@ -5,7 +5,3 @@
 |--------|--------|
 |     aa   |    bb    |
 
-```
-scsdcsdc
-```
-[坂本ゆうさく](https://github.com/YusakuSakamoto)
